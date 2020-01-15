@@ -14,10 +14,11 @@
 
 
 <test name = "Ecommerce Home">
+
     <classes>
         <class name="page_objects_test.HomePageTest"/>
-        <class name="page_objects_test.ContactUsPageTest"/>
-  </classes>
+        <!--<class name="page_objects_test.ContactUsPageTest"/>-->
+    </classes>
 
  <!--Hello-->
 </test>

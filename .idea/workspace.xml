@@ -178,7 +178,7 @@
         <entry file="file://$PROJECT_DIR$/generic/src/main/java/base/SampleBrowserDriver.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="326">
-              <caret line="50" column="40" lean-forward="true" selection-start-line="50" selection-start-column="40" selection-end-line="50" selection-end-column="40" />
+              <caret line="50" column="40" selection-start-line="50" selection-start-column="40" selection-end-line="50" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -186,11 +186,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/automationpractice/src/test/resources/EcommerceTestRunnerFile.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            <state relative-caret-position="425">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -208,7 +208,7 @@
         <entry file="file://$PROJECT_DIR$/automationpractice/src/test/java/page_objects_test/ContactUsPageTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#183#184#0" expanded="true" />
@@ -218,11 +218,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/generic/src/main/java/base/BrowserDriver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2835">
-              <caret line="265" column="40" lean-forward="true" selection-start-line="265" selection-start-column="40" selection-end-line="265" selection-end-column="40" />
+            <state relative-caret-position="3050">
+              <caret line="265" column="40" selection-start-line="265" selection-start-column="40" selection-end-line="265" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -466,7 +466,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579054748106" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579055116071" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
@@ -492,7 +492,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG./Users/jahidul/IdeaProjects/batch1903webautomationframework/automationpractice/src/test/resources/EcommerceTestRunnerFile.xml">
+  <component name="RunManager" selected="TestNG.HomePageTest.searchTest">
     <configuration name="HomePageTest.searchTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="automationpractice" />
       <extension name="coverage">
@@ -527,8 +527,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG./Users/jahidul/IdeaProjects/batch1903webautomationframework/automationpractice/src/test/resources/EcommerceTestRunnerFile.xml" />
         <item itemvalue="TestNG.HomePageTest.searchTest" />
+        <item itemvalue="TestNG./Users/jahidul/IdeaProjects/batch1903webautomationframework/automationpractice/src/test/resources/EcommerceTestRunnerFile.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -570,20 +570,22 @@
     <history-entry file="_Users_jahidul_IdeaProjects_batch1903webautomationframework_automationpractice_src_test_resources_EcommerceTestRunnerFile_xml - 2020.01.14 at 21h 13m 05s.xml">
       <configuration name="/Users/jahidul/IdeaProjects/batch1903webautomationframework/automationpractice/src/test/resources/EcommerceTestRunnerFile.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="_Users_jahidul_IdeaProjects_batch1903webautomationframework_automationpractice_src_test_resources_EcommerceTestRunnerFile_xml - 2020.01.14 at 21h 19m 41s.xml">
+      <configuration name="/Users/jahidul/IdeaProjects/batch1903webautomationframework/automationpractice/src/test/resources/EcommerceTestRunnerFile.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24114774" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24114774" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.19387755" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.54285717" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -643,26 +645,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/generic/src/main/java/base/SampleBrowserDriver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="50" column="40" lean-forward="true" selection-start-line="50" selection-start-column="40" selection-end-line="50" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/generic/src/main/java/base/BrowserDriver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2835">
-          <caret line="265" column="40" lean-forward="true" selection-start-line="265" selection-start-column="40" selection-end-line="265" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/automationpractice/src/test/java/page_objects_test/HomePageTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
@@ -697,7 +679,7 @@
     <entry file="file://$PROJECT_DIR$/automationpractice/src/test/java/page_objects_test/ContactUsPageTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#183#184#0" expanded="true" />
@@ -708,8 +690,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/automationpractice/src/test/resources/EcommerceTestRunnerFile.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        <state relative-caret-position="425">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generic/src/main/java/base/SampleBrowserDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="50" column="40" selection-start-line="50" selection-start-column="40" selection-end-line="50" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generic/src/main/java/base/BrowserDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3050">
+          <caret line="265" column="40" selection-start-line="265" selection-start-column="40" selection-end-line="265" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
