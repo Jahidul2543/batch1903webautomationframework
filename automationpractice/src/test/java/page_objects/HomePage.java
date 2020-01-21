@@ -1,9 +1,13 @@
 package page_objects;
 
+import application_page_base.ApplicationPageBase;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
+import reporting.TestLogger;
+
+import java.util.concurrent.TimeUnit;
 
 public class HomePage {
 
@@ -30,7 +34,8 @@ public class HomePage {
     private WebElement signInButton;
 
     public String search(){
-        searchBox.sendKeys("T Shirt");
+
+        ApplicationPageBase.sendKeys("Search Box", searchBox, "T Shirt");
         searchButton.click();
         String actualValue =  productcount.getText();
         return actualValue;

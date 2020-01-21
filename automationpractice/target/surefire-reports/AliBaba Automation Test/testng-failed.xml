@@ -13,8 +13,12 @@
       <class name="page_objects_test.HomePageTest">
         <methods>
           <include name="closeOut"/>
+          <include name="generateReport"/>
+          <include name="extentSetup"/>
+          <include name="afterEachTestMethod"/>
           <include name="initialiseElements"/>
           <include name="searchTest"/>
+          <include name="startExtent"/>
           <include name="setUp"/>
         </methods>
       </class> <!-- page_objects_test.HomePageTest -->

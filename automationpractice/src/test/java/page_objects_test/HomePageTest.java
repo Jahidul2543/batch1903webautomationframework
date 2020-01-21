@@ -25,7 +25,7 @@ public class HomePageTest extends BrowserDriver {
     }
 
     @Test
-    public void searchTest() {
+    public void searchTest() throws InterruptedException {
         String actualValue = homePage.search();
         String expectedValue = "Showing 1 - 1 of 1 item";
         Assert.assertEquals(actualValue, expectedValue);
